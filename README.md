@@ -138,12 +138,12 @@ projeto-hotel-tp1/
 
 ## Autores
 
-- **João Pedro** — entidades, quartos, hotéis, reservas, controladora do sistema
-- **Tarsila Marques** — entidades, gerentes, hóspedes, autenticação
-
+- **João Pedro** 
+- **Tarsila Marques**
 ---
 
 *Trabalho Prático 1 — Técnicas de Programação 1 — Universidade de Brasília (UnB)*
+
 
 
 
